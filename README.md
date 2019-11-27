@@ -10,7 +10,8 @@ Breast cancer is the most common type of cancer in women and is the second most 
           Donor: Tjen-Sien Lim (limt '@' stat.wisc.edu) (Date: 1999-03-04)
     
     3. Dataset Information: 
-          The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings                   Hospital on the survival of patients who had undergone surgery for breast cancer.
+          The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of 
+          Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
     
     4. Number of Instances: 306
     
