@@ -47,6 +47,6 @@ You can view the visualization and result in the notebook.
 
 # Conclusion
 
-The result did support the alternate hypothesis and fail to accept null hypothesis, which means the prediction made before performing the statistical test is true i.e.: A patient with fewer number of positive axillary nodes detected will more likely to survive which can be justified by looking at the p-value which is quite smaller than the significant value (0.05). 
+The result did support the alternate hypothesis and fail to accept null hypothesis, which means the prediction made before performing the statistical test is true i.e.: A patient with fewer number of positive axillary nodes detected will more likely to survive which can be justified by looking at the p-value (3.335385116660208e-07) which is quite smaller than the significant value (0.05). Consequently, in actual circumstances, the patients with less number of positive axillary nodes detected are more likely to survive than with more number of positive axillary nodes detected.
 
 
