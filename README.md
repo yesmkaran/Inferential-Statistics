@@ -38,6 +38,10 @@ By looking at the dataset attribute information, I think the number of positive 
 A positive axillary nodes are lymph nodes in the area of armpit to which cancer has spread (wikipedia). That means, fewer number of positive axillary nodes detected in a person is more likely to survive. This prediction of what result might be can be prove by using statistical test.
 
 # Experimental Design 
+
+Out of all types of analysis such as z-test, t-test, ANOVA (Analysis of Variance), chi-squared test, and regression learned during the  course, I choose to pick independent t-test to find statistical difference between the means of two samples from the given dataset because we know if only two sample means are to be compared, t-test is preferable or else if more than two sample means are to be compared, ANOVA is used. The reason why I didn't choose the z-test and chi-squared test is because the z-test requires population data (like mean and standard deviation) which we don't have and the chi-squared test requires both dependent and independent variable to be categorical in nature. Also, regression analysis was not preferable to perform the statistical test, because the dependent variable in our case is not continuous rather categorical.
+
+# 
     
     
 
